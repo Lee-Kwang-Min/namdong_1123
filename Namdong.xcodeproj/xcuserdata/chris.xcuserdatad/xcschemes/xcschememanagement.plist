@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DongyoungCS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>DongyoungOP.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>NamsungCS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>NamsungOP.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>832080731F5BE7F20083B994</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8320808B1F5BE8390083B994</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>832080A31F5BE8740083B994</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>832080BB1F5BF2E10083B994</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>832080DD1F5BFD0E0083B994</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>832080F51F5BFD530083B994</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>83232D131F2F6B8D00A4803D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module Pods_NamdongOP {
+  umbrella header "Pods-NamdongOP-umbrella.h"
+
+  export *
+  module * { export * }
+}
